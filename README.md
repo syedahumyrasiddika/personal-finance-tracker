@@ -22,7 +22,7 @@ This Python script serves as a personal finance tracker, helping you manage your
 Just copy the repository manually or using the command below
 
 ```
-git clone https://github.com/tasdikbyousuf/personal-finance-tracker.git
+git clone https://github.com/syedahumyrasiddika/personal-finance-tracker.git
 cd personal-finance-tracker
 
 ```
